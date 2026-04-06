@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shadycrisp
 - 👀 I’m interested in programming video games! And I am also looking into app development soon!
-- 🌱 I’m currently learning about arduino and C++, as I am working on a mini satellite, participating in the competition Cansat in Greece!
-- 💞️ I’m not currently looking to colaborate on anything, but I would love to be a part of some projects in the near future!
+- 🌱 I’m currently creating simulations and programs that relate to my future degree, as well as working on games!
+- 💞️ I'm not currently looking for anything specific, however I would love to collaborate or be a part of projects!
 
 
 <!---
